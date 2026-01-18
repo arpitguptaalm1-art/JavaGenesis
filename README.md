@@ -6,8 +6,8 @@ This repository documents my daily progress, code snippets, exercises, and notes
 
 **The goal:** Build a strong foundation in Java programming and share my journey with the community.
 
-### Day 1:
-Today I have installed the 'JDK;' and setup the path in the Environment variables and setup my vs code for java compilation and code running. and my second learning is the code very basic codes and conversion of '.java' file to '.class' file (bytecode) which is used by the JVM to highly and securely compile the java file. <br>
+### Day 1: ✅
+Today I have installed the `JDK` and setup the path in the Environment variables and setup my vs code for java compilation and code running. and my second learning is the code very basic codes and conversion of `.java` file to `.class` file (bytecode) which is used by the JVM to highly and securely compile the java file. <br>
 The basic and my first program is about printing my name and understanding the meaning of words used in it. <br>
 
 **1. public:** This means the file is accessible for every one. <br>
@@ -15,7 +15,7 @@ The basic and my first program is about printing my name and understanding the m
 **3. void:** The return type of the function is void (or empty). <br>
 **4. main:** Form here our code starts to run. <br>
 
-After writing this we define a string in main funtionc like (String[]arg). <br>
+After writing this we define a string in main funtionc like `(String[]arg)`. <br>
 
 And by using the syntax `System.out.println()` we printed our desired output. 
 
@@ -27,7 +27,7 @@ And by using the syntax `System.out.println()` we printed our desired output.
 <th> Day     </th>
 <th> Code             </th>
 <tr>
-<td> Day 1 </td>
+<td> Day 1  ✅</td>
 <td> Print "my name"</td>
 </tr>
 <tr>
@@ -121,4 +121,4 @@ And by using the syntax `System.out.println()` we printed our desired output.
 </p>
 
 
-[This is my Github Profile](https://github.com/arpitguptaalm1-art)
+[Github Profile](https://github.com/arpitguptaalm1-art)
