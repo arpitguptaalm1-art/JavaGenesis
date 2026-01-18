@@ -10,7 +10,7 @@ This repository documents my daily progress, code snippets, exercises, and notes
 # Daily progress chart:
 
 <p align="center">
-<table>
+<table style="align:center">
 <tr>
 <th> Day </th>
 <th> Code </th>
