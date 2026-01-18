@@ -23,13 +23,10 @@ After writing this we define a string in main funtionc like (String[]arg). <br>
 <table style="align:center">
 <tr>
 <th> Day     </th>
-<th> Code </th>
-</tr>
-<tr>
-<td> Day 0 </td>
-</tr>
+<th> Code             </th>
 <tr>
 <td> Day 1 </td>
+<td> Print "my name"</td>
 </tr>
 <tr>
 <td> Day 2 </td>
