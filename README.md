@@ -17,6 +17,8 @@ The basic and my first program is about printing my name and understanding the m
 
 After writing this we define a string in main funtionc like (String[]arg). <br>
 
+And by using the syntax `System.out.println()` we printed our desired output. 
+
 # Daily progress chart:
 
 <p align="center">
