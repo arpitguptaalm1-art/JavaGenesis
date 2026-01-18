@@ -22,7 +22,7 @@ After writing this we define a string in main funtionc like (String[]arg). <br>
 <p align="center">
 <table style="align:center">
 <tr>
-<th> Day </th>
+<th> Day     </th>
 <th> Code </th>
 </tr>
 <tr>
@@ -51,28 +51,72 @@ After writing this we define a string in main funtionc like (String[]arg). <br>
 </tr>
 <tr>
 <td> Day 8 </td>
+</tr>
+<tr>
 <td> Day 9 </td>
+</tr>
+<tr>
 <td> Day 10 </td>
+</tr>
+<tr>
 <td> Day 11 </td>
+</tr>
+<tr>
 <td> Day 12 </td>
+</tr>
+<tr>
 <td> Day 13 </td>
+</tr>
+<tr>
 <td> Day 14 </td>
+</tr>
+<tr>
 <td> Day 15 </td>
+</tr>
+<tr>
 <td> Day 16 </td>
-<td> Day 17 </td>
-<td> Day 18 </td>
-<td> Day 19 </td>
-<td> Day 20 </td>
-<td> Day 21 </td>
-<td> Day 22 </td>
-<td> Day 23 </td>
+</tr>
+<tr>
+<td> Day 17</td>
+</tr>
+<tr>
+<td> Day 18</td>
+</tr>
+<tr>
+<td> Day 19</td>
+</tr>
+<tr>
+<td> Day 20</td>
+</tr>
+<tr>
+<td> Day 21</td>
+</tr>
+<tr>
+<td> Day 22</td>
+</tr>
+<tr>
+<td> Day 23</td>
+</tr>
+<tr>
 <td> Day 24 </td>
-<td> Day 25 </td>
+</tr>
+<tr>
+<td> Day 25</td>
+</tr>
+<tr>
 <td> Day 26 </td>
-<td> Day 27 </td>
-<td> Day 28 </td>
-<td> Day 29 </td>
-<td> Day 30 </td>
+</tr>
+<tr>
+<td> Day 27</td>
+</tr>
+<tr>
+<td> Day 28</td>
+</tr>
+<tr>
+<td> Day 29</td>
+</tr>
+<tr>
+<td> Day 30</td>
 </tr>
 </table>
 </p>
