@@ -32,6 +32,7 @@ And by using the syntax `System.out.println()` we printed our desired output.
 </tr>
 <tr>
 <td> Day 2 </td>
+<td> variable, data types, area </td>
 </tr>
 <tr>
 <td> Day 3 </td>
