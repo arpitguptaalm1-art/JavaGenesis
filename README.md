@@ -49,12 +49,12 @@ Today i have learned hoe to take input for the user usnig Scanner class in java.
 </tr>
 <tr>
 <td> Day 3 ✅</td>
-<td>  </td>
+<td>  Scsnenr function </td>
 <td> Done ✅</td>
 </tr>
 <tr>
 <td> Day 4 </td>
-  <td>  Scsnenr function </td>
+  <td>  </td>
 <td> Pending ⌛ </td>
 </tr>
 <tr>
