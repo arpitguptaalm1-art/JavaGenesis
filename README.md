@@ -25,9 +25,27 @@ Today I have learned about the variavbles, and different data types (like int,fl
 **Hardcoded values:** Values of variables which are defined inside the code and not been change by the user directly without entering into the actual code.
 
 ### Day 3: ✅
-Today i have learned hoe to take input for the user usnig Scanner class in java. For doing this we need to import `java.util.Scanner` class because it contains all the type of scanner objects we use. Then create a new scanner object sc (or and other name) and type `System.in` meaning we are taking input thourgh the keyboard. Ther define that which type of input you are going to take like integer(nextInt()), double (nextDouble()), String(nextLine()),etc.
+Today I have learned hoe to take input for the user usnig Scanner class in java. For doing this we need to import `java.util.Scanner` class because it contains all the type of scanner objects we use. Then create a new scanner object sc (or and other name) and type `System.in` meaning we are taking input thourgh the keyboard. Ther define that which type of input you are going to take like integer(nextInt()), double (nextDouble()), String(nextLine()),etc.
 
+### Day 4: ✅
+Today I have write the program to find that the input number is even or odd and prime or composite. 
 
+**Process flow:** <br>
+**Step I:** First define Scanner obeject to take input form the user. <br>
+**Step II:** If the input number is even then it must be divisible by 2 (or num%2==0). <br>
+**Step III:** Using conditional statement else if ladder to verifiy the input is even,odd or the negative number according to the condtion. <br>
+**Step IV:** If the input number is prime the it must be divisible by 1 and the input itself only (or num%1==0 && num%num==0 only). <br>
+**Step V:** For this we need to imply the loop as well as if else condition; loop for continuous checking till input that it is divisible or not and if else for checking that it is divisible only twice or not and the input is negative or not. <br>
+
+**Basic for and if else syntax:** <br> <br>
+--> for (initializaion,comparision,updation) <br>
+
+--> if (conditon)<br>
+{<br>
+}<br>
+else <br>
+{<br>
+}<br>
 
 # Daily progress chart:
 
@@ -49,13 +67,13 @@ Today i have learned hoe to take input for the user usnig Scanner class in java.
 </tr>
 <tr>
 <td> Day 3 ✅</td>
-<td>  Scsnenr function </td>
+<td>  Scanner function </td>
 <td> Done ✅</td>
 </tr>
 <tr>
-<td> Day 4 </td>
-  <td>  </td>
-<td> Pending ⌛ </td>
+<td> Day 4 ✅</td>
+  <td> Eve/odd and Prime/Composite </td>
+<td> Done ✅ </td>
 </tr>
 <tr>
 <td> Day 5 </td>
