@@ -47,6 +47,15 @@ else <br>
 {<br>
 }<br>
 
+### Day 5: ✅
+Today I have learnt about loops and how to apply them in solving problems. Loops allow repetition of tasks without writing redundant code, making programs efficient and scalable.
+
+- The for loop is useful when the number of iterations is known.
+- The while loop is effective when iterations depend on a condition.
+- Loops simplify logic and are essential for automation.
+
+Loops are a fundamental building block in programming. They make repetitive tasks manageable and prepare the ground for more advanced concepts like **arrays, recursion, and pattern generation.**
+
 # Daily progress chart:
 
 <p align="center">
@@ -76,9 +85,9 @@ else <br>
 <td> Done ✅ </td>
 </tr>
 <tr>
-<td> Day 5 </td>
-  <td>  </td>
-<td> Pending ⌛</td>
+<td> Day 5 ✅</td>
+  <td> Loops (sum and multiplication of digits)</td>
+<td> Done ✅</td>
 </tr>
 <tr>
 <td> Day 6 </td>
