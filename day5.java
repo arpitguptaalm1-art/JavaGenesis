@@ -26,5 +26,6 @@ public class day5 {
             num2=num2/10;
         }
         System.out.println("The multiplication of digits for the given number is: "+mul);
-    }
+        scan.close();
+        }
 }
