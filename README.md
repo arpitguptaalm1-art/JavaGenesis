@@ -56,6 +56,10 @@ Today I have learnt about loops and how to apply them in solving problems. Loops
 
 Loops are a fundamental building block in programming. They make repetitive tasks manageable and prepare the ground for more advanced concepts like **arrays, recursion, and pattern generation.**
 
+### Day 6: ✅
+Today I have make a program that convter the user input (in second) into the format of `hours:minutes:seconds`.
+I use divide operator "/" and modulo operator for the conversion.
+
 # Daily progress chart:
 
 <p align="center">
@@ -90,9 +94,9 @@ Loops are a fundamental building block in programming. They make repetitive task
 <td> Done ✅</td>
 </tr>
 <tr>
-<td> Day 6 </td>
-  <td>  </td>
-<td> Pending ⌛</td>
+<td> Day 6 ✅</td>
+  <td> Second to Hours:munites:second</td>
+<td> Done ✅</td>
 </tr>
 <tr>
 <td> Day 7 </td>
