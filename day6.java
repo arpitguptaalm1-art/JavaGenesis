@@ -14,6 +14,6 @@ public class day6 {
                 sec=(sec%60)%60;
         }
         System.out.printf("%d:%d:%d",hrs,min,sec);
+        scan.close();
     }
     }
-
