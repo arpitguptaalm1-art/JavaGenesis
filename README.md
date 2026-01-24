@@ -60,6 +60,24 @@ Loops are a fundamental building block in programming. They make repetitive task
 Today I have make a program that convter the user input (in second) into the format of `hours:minutes:seconds`.
 I use divide operator "/" and modulo operator for the conversion.
 
+### Day 7: ✅
+Today I have make a program that can find the sum of n numbers in the Arithmetic Progression.
+An Arithmetic Progression (AP) is a sequence of numbers with a constant difference between consecutive terms.
+
+The formula for the sum of the first n terms is:
+
+**Sn=n/2{2a+(n-1)d}**
+
+ where:
+
+n = number of terms
+
+a = first term
+
+d = common difference
+
+
+
 # Daily progress chart:
 
 <p align="center">
@@ -99,9 +117,9 @@ I use divide operator "/" and modulo operator for the conversion.
 <td> Done ✅</td>
 </tr>
 <tr>
-<td> Day 7 </td>
-  <td>  </td>
-<td> Pending ⌛</td>
+<td> Day 7 ✅</td>
+  <td> Sum of n terms of an AP </td>
+<td> Done ✅</td>
 </tr>
 <tr>
 <td> Day 8 </td>
