@@ -16,5 +16,6 @@ public  class day8{
             n/=10;
         }
         System.out.println(+rev);
+        scan.close();
     }
 }
