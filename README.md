@@ -76,7 +76,15 @@ a = first term
 
 d = common difference
 
+### Day 8: ✅
 
+Today I have made a program to reverse the user input number. So the main logic for reversing the number is that:
+1. Creating the variable name rev.
+2. Finding the last digit of the number.
+3. Adding the last digit to rev.
+4. Dividing the last number by 10.
+5. Multiplying the rev by 10.
+6. Repeating the same process unless number is 0.
 
 # Daily progress chart:
 
@@ -122,9 +130,9 @@ d = common difference
 <td> Done ✅</td>
 </tr>
 <tr>
-<td> Day 8 </td>
-  <td>  </td>
-<td> Pending ⌛</td>
+<td> Day 8 ✅</td>
+  <td> Reversing the number </td>
+<td> Done ✅</td>
 </tr>
 <tr>
 <td> Day 9 </td>
