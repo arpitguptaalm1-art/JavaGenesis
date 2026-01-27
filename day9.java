@@ -15,12 +15,12 @@ public class day9 {
             }
             System.out.println();
         }
-        System.out.println("enter the number of rows and columns: ");
+        System.out.print("enter the number of rows and columns: ");
         int x=sc.nextInt();
         int i=0;
-        while (i<x)
+        while (i<x) // using while loop
         {
-            int j=0;
+            int j=0; // in while loop we need to initialize the inner loop  values inside the main loop.
             while(j<x)
             {
                 System.out.print("# ");
