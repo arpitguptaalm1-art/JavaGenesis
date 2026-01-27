@@ -86,6 +86,13 @@ Today I have made a program to reverse the user input number. So the main logic 
 5. Multiplying the rev by 10.
 6. Repeating the same process unless number is 0.
 
+### Day 9: ✅
+
+Today I have learned about the nested loops and by using it I have learned the basis of pattern printing and today I have printed 1 pattern the basic one and for this i have used two loops and my program 
+can make as many as rows and columns as the user input for the pattern printing.
+
+
+                                                                                         
 # Daily progress chart:
 
 <p align="center">
@@ -135,9 +142,9 @@ Today I have made a program to reverse the user input number. So the main logic 
 <td> Done ✅</td>
 </tr>
 <tr>
-<td> Day 9 </td>
-  <td>  </td>
-<td> Pending ⌛</td>
+<td> Day 9 ✅</td>
+  <td>  Pattern printing </td>
+<td> Done ✅</td>
 </tr>
 <tr>
 <td> Day 10 </td>
