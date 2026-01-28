@@ -91,6 +91,13 @@ Today I have made a program to reverse the user input number. So the main logic 
 Today I have learned about the nested loops and by using it I have learned the basis of pattern printing and today I have printed 1 pattern the basic one and for this i have used two loops and my program 
 can make as many as rows and columns as the user input for the pattern printing.
 
+### Day 10: ✅
+
+Today I have explored more and learned more about loops and nested loops, and learn more pattern printing. Today I have learned about the charachter printing in the nested loops and the right angled triangle in the loop.
+*
+**
+***
+****
 
                                                                                          
 # Daily progress chart:
@@ -147,9 +154,9 @@ can make as many as rows and columns as the user input for the pattern printing.
 <td> Done ✅</td>
 </tr>
 <tr>
-<td> Day 10 </td>
-  <td>  </td>
-<td> Pending ⌛</td>
+<td> Day 10 ✅</td>
+  <td> Character printing and trinagle printing </td>
+<td> Done ✅</td>
 </tr>
 <tr>
 <td> Day 11 </td>
