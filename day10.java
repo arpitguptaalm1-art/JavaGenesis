@@ -29,10 +29,10 @@ public class day10 {
             System.out.println();
         }
 
-        // printing star triangle
+        // printing star triangle 
         System.out.print("enter tha value of o: ");
         int o=scan.nextInt();
-        for (int i=1;i<=m;i++)
+        for (int i=1;i<=o;i++)
         {
             for (int j=1;j<=i;j++)
             {
@@ -40,5 +40,6 @@ public class day10 {
             }
             System.out.println();
         }
+        scan.close();
     }
 }
