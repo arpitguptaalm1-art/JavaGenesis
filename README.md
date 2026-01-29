@@ -94,11 +94,10 @@ can make as many as rows and columns as the user input for the pattern printing.
 ### Day 10: ✅
 
 Today I have explored more and learned more about loops and nested loops, and learn more pattern printing. Today I have learned about the charachter printing in the nested loops and the right angled triangle in the loop.
-*
-**
-***
-****
 
+### Day 11: ✅
+
+Today I have explored more and learned more about loops and nested loops, and learn more pattern printing. Today I have learned about printing downward triangle.
                                                                                          
 # Daily progress chart:
 
@@ -159,9 +158,9 @@ Today I have explored more and learned more about loops and nested loops, and le
 <td> Done ✅</td>
 </tr>
 <tr>
-<td> Day 11 </td>
-  <td>  </td>
-<td> Pending ⌛</td>
+<td> Day 11 ✅</td>
+  <td> downward triangle </td>
+<td> Done ✅</td>
 </tr>
 <tr>
 <td> Day 12 </td>
