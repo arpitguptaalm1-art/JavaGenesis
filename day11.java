@@ -15,6 +15,7 @@ public class day11 {
             {
                 System.out.print("* ");
             }
+            
             System.out.println(" ");
         }
         s.close();
