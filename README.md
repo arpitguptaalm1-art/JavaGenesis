@@ -98,7 +98,17 @@ Today I have explored more and learned more about loops and nested loops, and le
 ### Day 11: ✅
 
 Today I have explored more and learned more about loops and nested loops, and learn more pattern printing. Today I have learned about printing downward triangle.
-                                                                                         
+
+### Day 12: 
+
+Today, I explored how to print pyramid and diamond patterns using nested loops in Java. These problems are classic exercises to strengthen logic building, loop control, and understanding of spacing in console output.
+- Nested loops are powerful for controlling spaces and stars.
+- Pyramid → single loop with spaces + stars.
+- Diamond → combination of pyramid and inverted pyramid.
+- These patterns sharpen logical thinking and help in mastering loop constructs.
+
+
+
 # Daily progress chart:
 
 <p align="center">
@@ -163,9 +173,9 @@ Today I have explored more and learned more about loops and nested loops, and le
 <td> Done ✅</td>
 </tr>
 <tr>
-<td> Day 12 </td>
-  <td>  </td>
-<td> Pending ⌛</td>
+<td> Day 12 ✅</td>
+  <td> Diamond anf pyramid </td>
+<td> Done ✅</td>
 </tr>
 <tr>
 <td> Day 13 </td>
