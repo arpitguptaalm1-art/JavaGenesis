@@ -107,7 +107,15 @@ Today, I explored how to print pyramid and diamond patterns using nested loops i
 - Diamond → combination of pyramid and inverted pyramid.
 - These patterns sharpen logical thinking and help in mastering loop constructs.
 
+### Day 13: ✅
 
+I learned how to print a hollow diamond pattern using nested loops and conditional logic.
+
+Key Points:
+• 	Used nested loops to control rows and columns.
+• 	Applied spaces before and between characters to create the hollow effect.
+• 	The upper half of the diamond is an expanding pyramid, while the lower half is a shrinking inverted pyramid.
+• 	Conditions ensured only the boundary of the diamond was printed, leaving the inside empty.
 
 # Daily progress chart:
 
@@ -174,13 +182,13 @@ Today, I explored how to print pyramid and diamond patterns using nested loops i
 </tr>
 <tr>
 <td> Day 12 ✅</td>
-  <td> Diamond anf pyramid </td>
+  <td> Diamond and pyramid </td>
 <td> Done ✅</td>
 </tr>
 <tr>
-<td> Day 13 </td>
-<td>  </td>
-<td> Pending ⌛</td>
+<td> Day 13 ✅</td>
+<td> Hollow Diamond Printing</td>
+<td> Done ✅</td>
 </tr>
 <tr>
 <td> Day 14 </td>

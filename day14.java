@@ -57,5 +57,6 @@ public class day14 {
             }
             System.out.println();
         }
+        scanner.close();
     }
 }
