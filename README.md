@@ -191,14 +191,14 @@ Key Points:
 <td> Done ✅</td>
 </tr>
 <tr>
-<td> Day 14 </td>
-  <td>  </td>
-<td> Pending ⌛</td>
+<td> Day 14 ✅</td>
+  <td> Alphabet star printing  </td>
+<td> Done ✅</td>
 </tr>
 <tr>
-<td> Day 15 </td>
-  <td>  </td>
-<td> Pending ⌛</td>
+<td> Day 15 ✅</td>
+  <td> Swaping two numbers with bitwise </td>
+<td> Done ✅</td>
 </tr>
 <tr>
 <td> Day 16 </td>
