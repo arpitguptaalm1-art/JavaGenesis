@@ -10,5 +10,6 @@ public class day17 {
         } else {
             System.out.println(n + " is odd.");
         }
+        scanner.close();
     }
 }
