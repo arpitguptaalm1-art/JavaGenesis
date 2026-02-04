@@ -117,6 +117,41 @@ Key Points:
 • 	The upper half of the diamond is an expanding pyramid, while the lower half is a shrinking inverted pyramid.
 • 	Conditions ensured only the boundary of the diamond was printed, leaving the inside empty.
 
+
+### Day 14: ✅
+
+Today I have learnt how to print different letters using loops in the user input data. And the important points to remember while printintg the alphabets using nested loops is that when to print the spaces in the code. For printing 'C' we need to print spaces when j>=1 till j<=5 and i<=1 till i<=n-1.
+
+### Day 15: ✅
+
+Today I have started to learn Bitwise operators. The main bitwise operators are:
+1. & - AND bitwise operator.
+2. | - OR bitwise operator.
+3. ^ - EXOR bitwise operator.
+4. ! -  NOT bitwise operator.
+5. << - right shift.
+6. >> - left shift.
+7. >> - right shift.
+
+For swaping two numbers using bitwise we use ^ operator. When we deal with bits in any programming language it is known as Bit Manipulation.
+
+### Day 16: ✅
+
+Today I have dig deeper knowledge in the bitwise operators and created a program to find that the given number is the power of 2 or not. there are two ways one by using the method Math.pow() and second using bit manipulation. 
+For bit manipulation we use the & bitwise operator.
+
+### Day 17: ✅
+
+Today I made the code to check even or odd using the bitwise operator using & operator.
+
+### Day 18: ✅
+
+Today I have started the new topic and the most famous topics in the programming languages 'Arrays'. Today is the first learing day of the arrays so today I have learnt the basics of array and know the types of arrays:
+1. 1-D Array.
+2. 2-D Array.
+
+Even learnt about the size of the array how to make an array. There are two ways to make array; either by hardcoded values inside this bracket [] or by user input. For making and printing the user input array we need two loops one for storing the array elements and second printing array elements.
+
 # Daily progress chart:
 
 <p align="center">
@@ -206,14 +241,14 @@ Key Points:
 <td> Done ✅</td>
 </tr>
 <tr>
-<td> Day 17</td>
-  <td>  </td>
-<td> Pending ⌛</td>
+<td> Day 17 ✅</td>
+  <td> Checking even odd using bitwise </td>
+<td> Done ✅</td>
 </tr>
 <tr>
-<td> Day 18</td>
-  <td>  </td>
-<td> Pending ⌛</td>
+<td> Day 18 ✅</td>
+  <td> Array making </td>
+<td> Done ✅</td>
 </tr>
 <tr>
 <td> Day 19</td>
