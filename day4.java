@@ -20,6 +20,7 @@ public class day4 {
         {
             System.out.println("the number is odd");
         }
+        
         for (int i=2;i<num;i++)
         {
             if (num%i==0) // for prime no.the no. is only divisible by 1 and itself so if the no. is divisible by any other this will considered as composite no.
