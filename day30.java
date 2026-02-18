@@ -1,4 +1,4 @@
-// Duplicate Detection in Arrays
+// FREQUENCY OF ELEMENTS IN AN ARRAY
 
 package javagenesis;
 import java.util.Scanner;
@@ -9,24 +9,20 @@ public class day30 {
         int[] arr=new int[n];
         for (int i=0;i<n;i++)
             arr[i]=s.nextInt();
-        boolean flag=false;
-        for (int i=0;i<n-1;i++)
+        for (int i=0;i<n;i++)
         {
+            int count=1;
             for (int j=i+1;j<n;j++)
             {
                 if (arr[i]==arr[j])
                 {
-                    flag=true;
-                    break;
+                    count++;
+                    arr[j]=-1;
                 }
             }
-            if (flag)
-                break;
+            if (arr[i]!=-1)
+                System.out.println(arr[i]+" "+count);
         }
-        if (flag)
-            System.out.println("true");
-        else
-            System.out.println("false");
         s.close();
     }
 }
