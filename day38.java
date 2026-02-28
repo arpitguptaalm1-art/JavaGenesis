@@ -32,3 +32,4 @@ public class day38 {
         scanner.close();    
     }
 }
+1
