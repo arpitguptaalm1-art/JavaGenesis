@@ -1,8 +1,9 @@
 # JavaGenesis
-# 30 Days of Java learning series:
+# 45 Days of Java learning series:
 
-Welcome to my 30 Days of Java Learning Challenge!
+Welcome to my 45 Days of Java Learning Challenge!
 This repository documents my daily progress, code snippets, exercises, and notes as I learn Java step by step.
+Additionally I have added more 15 days to the challenge. 
 
 **The goal:** Build a strong foundation in Java programming and share my journey with the community.
 
@@ -152,6 +153,21 @@ Today I have started the new topic and the most famous topics in the programming
 
 Even learnt about the size of the array how to make an array. There are two ways to make array; either by hardcoded values inside this bracket [] or by user input. For making and printing the user input array we need two loops one for storing the array elements and second printing array elements.
 
+### Day 19: ✅
+
+Today I have learnt how to store elments in array variables and add the elements of the array input. For adding the elements I used two loops one for array elements and second for adding the elements.
+
+### Day 20: ✅
+
+Today I have write a program to add two different array elements and stored the added elements in the another array. For this I have used a for loop to add array elements with their indcies. and store them with in the new array.
+
+### Day 21: ✅
+
+Today I have used the arithmetic operators and array to write a program to find the smallest element in the array. For this I have used a for loop and used the arithmatic operator and the new array variable with to compare repeatidly and find the smallest.
+
+### Day 22: ✅
+
+
 # Daily progress chart:
 
 <p align="center">
@@ -251,24 +267,24 @@ Even learnt about the size of the array how to make an array. There are two ways
 <td> Done ✅</td>
 </tr>
 <tr>
-<td> Day 19</td>
-  <td>  </td>
-<td> Pending ⌛</td>
+<td> Day 19 ✅</td>
+  <td> Sum of elements in array </td>
+<td> Done ✅</td>
 </tr>
 <tr>
-<td> Day 20</td>
-  <td>  </td>
-<td> Pending ⌛</td>
+<td> Day 20 ✅</td>
+  <td> Adding two arrays </td>
+<td> Done ✅</td>
 </tr>
 <tr>
-<td> Day 21</td>
-  <td>  </td>
-<td> Pending ⌛</td>
+<td> Day 21 ✅</td>
+  <td> Smallest in array </td>
+<td> Done ✅</td>
 </tr>
 <tr>
-<td> Day 22</td>
-  <td>  </td>
-<td> Pending ⌛</td>
+<td> Day 22 ✅</td>
+  <td> Array reverse </td>
+<td> Done ✅</td>
 </tr>
 <tr>
 <td> Day 23</td>
@@ -307,6 +323,66 @@ Even learnt about the size of the array how to make an array. There are two ways
 </tr>
 <tr>
 <td> Day 30</td>
+  <td>  </td>
+<td> Pending ⌛</td>
+</tr>
+ <tr>
+<td> Day 31</td>
+  <td>  </td>
+<td> Pending ⌛</td>
+</tr>
+ <tr>
+<td> Day 32</td>
+  <td>  </td>
+<td> Pending ⌛</td>
+</tr>
+ <tr>
+<td> Day 33</td>
+  <td>  </td>
+<td> Pending ⌛</td>
+</tr>
+ <tr>
+<td> Day 34</td>
+  <td>  </td>
+<td> Pending ⌛</td>
+</tr>
+ <tr>
+<td> Day 35</td>
+  <td>  </td>
+<td> Pending ⌛</td>
+</tr>
+ <tr>
+<td> Day 36</td>
+  <td>  </td>
+<td> Pending ⌛</td>
+</tr>
+ <tr>
+<td> Day 37</td>
+  <td>  </td>
+<td> Pending ⌛</td>
+</tr>
+ <tr>
+<td> Day 38</td>
+  <td>  </td>
+<td> Pending ⌛</td>
+</tr>
+ <tr>
+<td> Day 39</td>
+  <td>  </td>
+<td> Pending ⌛</td>
+</tr>
+ <tr>
+<td> Day 40</td>
+  <td>  </td>
+<td> Pending ⌛</td>
+</tr>
+ <tr>
+<td> Day 41</td>
+  <td>  </td>
+<td> Pending ⌛</td>
+</tr>
+ <tr>
+<td> Day 42</td>
   <td>  </td>
 <td> Pending ⌛</td>
 </tr>
